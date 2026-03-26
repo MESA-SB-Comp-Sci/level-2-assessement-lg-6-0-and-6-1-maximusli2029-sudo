@@ -25,7 +25,8 @@ body {
 
 .border1 {
     background-color: white;
-    border-color: orange;
+    border: 5px solid orange;
+    padding: 50px;
 }
 
 .white {
