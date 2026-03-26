@@ -23,8 +23,11 @@ body {
     color: cyan;
 }
 
-border1 {
+.border1 {
     background-color: white;
     border-color: orange;
-    
+}
+
+.white {
+    color:white;
 }
