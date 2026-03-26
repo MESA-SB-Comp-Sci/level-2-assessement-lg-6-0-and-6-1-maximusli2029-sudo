@@ -2,3 +2,29 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: gray;
+}
+
+.head1 {
+    background-color: pink;
+    color: white;
+}
+
+.p1 {
+    color: yellow;
+}
+
+.p2 {
+    color: green;
+}
+
+.p3 {
+    color: cyan;
+}
+
+border1 {
+    background-color: white;
+    border-color: orange;
+    
+}
