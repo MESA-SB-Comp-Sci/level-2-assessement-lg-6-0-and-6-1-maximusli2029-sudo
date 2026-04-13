@@ -17,18 +17,25 @@ body {
 
 .p2 {
     color: green;
+    display: inline;
 }
 
 .p3 {
     color: cyan;
 }
 
+li {
+    display: inline;
+}
+
 .border1 {
     background-color: white;
     border: 5px solid orange;
-    padding: 50px;
+    height: 100px;
+    padding-bottom: 50px;
 }
 
 .white {
     color:white;
 }
+
